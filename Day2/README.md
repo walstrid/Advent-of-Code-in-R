@@ -1,6 +1,8 @@
-##Day 2: Corruption Checksum
+# Day 2: Corruption Checksum
 
-#Part 1 (copied from AoC page)
+Part 1 (copied from [AoC page](http://adventofcode.com/2017/day/2))
+------
+
 
 As you walk through the door, a glowing humanoid shape yells in your direction. "You there! Your state appears to be idle. Come help us repair the corruption in this spreadsheet - if we take another millisecond, we'll have to display an hourglass cursor!"
 
@@ -18,7 +20,8 @@ For example, given the following spreadsheet:
 
 In this example, the spreadsheet's checksum would be 8 + 4 + 6 = 18.
 
-#Part 2 (copied from AoC page)
+Part 2 (copied from [AoC page](http://adventofcode.com/2017/day/2))
+------
 
 "Great work; looks like we're on the right track after all. Here's a star for your effort." However, the program seems a little worried. Can programs be worried?
 
