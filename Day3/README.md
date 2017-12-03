@@ -1,4 +1,4 @@
-# Day 2rd: Spiral Memory
+# Day 3: Spiral Memory
 
 Part 1 (copied from [AoC page](http://adventofcode.com/2017/day/3))
 ------
