@@ -1,5 +1,7 @@
-##Day 1: Inverse Captcha
-#Part 1 (copied from AoC page)
+# Day 1: Inverse Captcha
+
+Part 1 (copied from [AoC page](http://adventofcode.com/2017/day/1))
+------
 
 You're standing in a room with "digitization quarantine" written in LEDs along one wall. The only door is locked, but it includes a small interface. "Restricted Area - Strictly No Digitized Users Allowed."
 
@@ -15,7 +17,8 @@ For example:
     91212129 produces 9 because the only digit that matches the next one is the last digit, 9.
 
 
-#Part 2 (copied from AoC page)
+Part 2 (copied from [AoC page](http://adventofcode.com/2017/day/1))
+------
 
 You notice a progress bar that jumps to 50% completion. Apparently, the door isn't yet satisfied, but it did emit a star as encouragement. The instructions change:
 
